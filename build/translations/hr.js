@@ -1,1 +1,1 @@
-(function(d){d['hr']=Object.assign(d['hr']||{},{a:"Ukošeno",b:"Podcrtavanje",c:"Podebljano",d:"Poništi",e:"Ponovi",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['hr']=Object.assign(d['hr']||{},{a:"Ukošeno",b:"Podebljano",c:"Subscript",d:"Podcrtavanje",e:"Superscript",f:"Poništi",g:"Ponovi",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

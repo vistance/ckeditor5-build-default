@@ -1,1 +1,1 @@
-(function(d){d['vi']=Object.assign(d['vi']||{},{a:"Italic",b:"Underline",c:"Bold",d:"Hoàn tác",e:"Tiếp tục",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['vi']=Object.assign(d['vi']||{},{a:"Italic",b:"Bold",c:"Subscript",d:"Underline",e:"Superscript",f:"Hoàn tác",g:"Tiếp tục",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

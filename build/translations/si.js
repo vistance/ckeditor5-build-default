@@ -1,1 +1,1 @@
-(function(d){d['si']=Object.assign(d['si']||{},{a:"ඇලකුරු",b:"Underline",c:"තදකුරු",d:"අහෝසි කරන්න",e:"නැවත කරන්න",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['si']=Object.assign(d['si']||{},{a:"ඇලකුරු",b:"තදකුරු",c:"Subscript",d:"Underline",e:"Superscript",f:"අහෝසි කරන්න",g:"නැවත කරන්න",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

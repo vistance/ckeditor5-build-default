@@ -1,1 +1,1 @@
-(function(d){d['it']=Object.assign(d['it']||{},{a:"Corsivo",b:"Sottolineato",c:"Grassetto",d:"Annulla",e:"Ripristina",f:"Editor di testo formattato",g:"Editor di testo formattato, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['it']=Object.assign(d['it']||{},{a:"Corsivo",b:"Grassetto",c:"Pedice",d:"Sottolineato",e:"Apice",f:"Annulla",g:"Ripristina",h:"Editor di testo formattato",i:"Editor di testo formattato, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

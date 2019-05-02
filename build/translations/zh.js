@@ -1,1 +1,1 @@
-(function(d){d['zh']=Object.assign(d['zh']||{},{a:"斜體",b:"Underline",c:"粗體",d:"取消",e:"重做",f:"豐富文字編輯器",g:"豐富文字編輯器，%0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['zh']=Object.assign(d['zh']||{},{a:"斜體",b:"粗體",c:"Subscript",d:"Underline",e:"Superscript",f:"取消",g:"重做",h:"豐富文字編輯器",i:"豐富文字編輯器，%0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

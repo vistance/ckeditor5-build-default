@@ -1,1 +1,1 @@
-(function(d){d['no']=Object.assign(d['no']||{},{a:"Kursiv",b:"Understreket",c:"Fet",d:"Angre",e:"Gjør om",f:"Tekstredigeringsverktøy for rik tekst",g:"Tekstredigeringsverktøy for rik tekst, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['no']=Object.assign(d['no']||{},{a:"Kursiv",b:"Fet",c:"Senket skrift",d:"Understreket",e:"Hevet skrift",f:"Angre",g:"Gjør om",h:"Tekstredigeringsverktøy for rik tekst",i:"Tekstredigeringsverktøy for rik tekst, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

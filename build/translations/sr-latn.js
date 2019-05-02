@@ -1,1 +1,1 @@
-(function(d){d['sr-latn']=Object.assign(d['sr-latn']||{},{a:"Kurziv",b:"Podvučen",c:"Podebljano",d:"Povlačenje",e:"Ponovo",f:"Prošireni uređivač teksta",g:"Prošireni uređivač teksta, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sr-latn']=Object.assign(d['sr-latn']||{},{a:"Kurziv",b:"Podebljano",c:"Index dole",d:"Podvučen",e:"Index gore",f:"Povlačenje",g:"Ponovo",h:"Prošireni uređivač teksta",i:"Prošireni uređivač teksta, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

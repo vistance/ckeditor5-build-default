@@ -1,1 +1,1 @@
-(function(d){d['he']=Object.assign(d['he']||{},{a:"נטוי",b:"קו תחתון",c:"מודגש",d:"ביטול",e:"ביצוע מחדש",f:"עורך טקסט עשיר",g:"עורך טקסט עשיר, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['he']=Object.assign(d['he']||{},{a:"נטוי",b:"מודגש",c:"כתב תחתי",d:"קו תחתון",e:"כתב עילי",f:"ביטול",g:"ביצוע מחדש",h:"עורך טקסט עשיר",i:"עורך טקסט עשיר, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

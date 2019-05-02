@@ -1,1 +1,1 @@
-(function(d){d['az']=Object.assign(d['az']||{},{a:"Kursiv",b:"Altdan xətt",c:"Yarıqalın",d:"İmtina et",e:"Təkrar et",f:"Rich Text Redaktoru",g:"Rich Text Redaktoru, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['az']=Object.assign(d['az']||{},{a:"Kursiv",b:"Yarıqalın",c:"Alt yazı",d:"Altdan xətt",e:"Üst yazı",f:"İmtina et",g:"Təkrar et",h:"Rich Text Redaktoru",i:"Rich Text Redaktoru, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

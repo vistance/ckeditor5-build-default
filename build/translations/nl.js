@@ -1,1 +1,1 @@
-(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Cursief",b:"Onderlijnen",c:"Vet",d:"Ongedaan maken",e:"Opnieuw",f:"Tekstbewerker",g:"Tekstbewerker, 0%"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['nl']=Object.assign(d['nl']||{},{a:"Cursief",b:"Vet",c:"Subscript",d:"Onderlijnen",e:"Superscript",f:"Ongedaan maken",g:"Opnieuw",h:"Tekstbewerker",i:"Tekstbewerker, 0%"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

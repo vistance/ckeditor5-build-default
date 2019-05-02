@@ -1,1 +1,1 @@
-(function(d){d['fa']=Object.assign(d['fa']||{},{a:"کج",b:"خط زیر",c:"تو پر",d:"بازگردانی",e:"باز انجام",f:"ویرایشگر متن غنی",g:"ویرایشگر متن غنی، %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['fa']=Object.assign(d['fa']||{},{a:"کج",b:"تو پر",c:"Subscript",d:"خط زیر",e:"Superscript",f:"بازگردانی",g:"باز انجام",h:"ویرایشگر متن غنی",i:"ویرایشگر متن غنی، %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

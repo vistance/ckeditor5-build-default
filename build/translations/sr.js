@@ -1,1 +1,1 @@
-(function(d){d['sr']=Object.assign(d['sr']||{},{a:"Курзив",b:"Подвучен",c:"Подебљано",d:"Повлачење",e:"Поново",f:"Проширен уређивач текста",g:"Проширени уређивач текста, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sr']=Object.assign(d['sr']||{},{a:"Курзив",b:"Подебљано",c:"Индекс доле",d:"Подвучен",e:"Индекс горе",f:"Повлачење",g:"Поново",h:"Проширен уређивач текста",i:"Проширени уређивач текста, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
