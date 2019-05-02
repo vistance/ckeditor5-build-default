@@ -1,1 +1,1 @@
-(function(d){d['tr']=Object.assign(d['tr']||{},{a:"İtalik",b:"Kalın",c:"Alt Simge",d:"Altı Çizgili",e:"Üst Simge",f:"Geri al",g:"Tekrar yap",h:"Zengin İçerik Editörü",i:"Zengin İçerik Editörü, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['tr']=Object.assign(d['tr']||{},{a:"İtalik",b:"Kalın",c:"Altı Çizgili",d:"Üst Simge",e:"Alt Simge",f:"Geri al",g:"Tekrar yap",h:"Zengin İçerik Editörü",i:"Zengin İçerik Editörü, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

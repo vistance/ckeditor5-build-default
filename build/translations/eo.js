@@ -1,1 +1,1 @@
-(function(d){d['eo']=Object.assign(d['eo']||{},{a:"kursiva",b:"grasa",c:"Subscript",d:"Underline",e:"Superscript",f:"Malfari",g:"Refari",h:"Redaktilo de Riĉa Teksto",i:"Redaktilo de Riĉa Teksto, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['eo']=Object.assign(d['eo']||{},{a:"kursiva",b:"grasa",c:"Underline",d:"Superscript",e:"Subscript",f:"Malfari",g:"Refari",h:"Redaktilo de Riĉa Teksto",i:"Redaktilo de Riĉa Teksto, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

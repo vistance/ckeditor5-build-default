@@ -1,1 +1,1 @@
-(function(d){d['eu']=Object.assign(d['eu']||{},{a:"Etzana",b:"Lodia",c:"Subscript",d:"Azpimarra",e:"Superscript",f:"Desegin",g:"Berregin",h:"Testu aberastuaren editorea",i:"Testu aberastuaren editorea, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['eu']=Object.assign(d['eu']||{},{a:"Etzana",b:"Lodia",c:"Azpimarra",d:"Superscript",e:"Subscript",f:"Desegin",g:"Berregin",h:"Testu aberastuaren editorea",i:"Testu aberastuaren editorea, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

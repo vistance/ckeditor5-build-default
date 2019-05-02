@@ -1,1 +1,1 @@
-(function(d){d['ne']=Object.assign(d['ne']||{},{a:"इटालिक",b:"बोल्ड",c:"Subscript",d:"रेखांकन",e:"Superscript",f:"पूर्ववत",g:"रिडु",h:"धनी पाठ सम्पादक",i:"धनी पाठ सम्पादक, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ne']=Object.assign(d['ne']||{},{a:"इटालिक",b:"बोल्ड",c:"रेखांकन",d:"Superscript",e:"Subscript",f:"पूर्ववत",g:"रिडु",h:"धनी पाठ सम्पादक",i:"धनी पाठ सम्पादक, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

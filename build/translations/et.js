@@ -1,1 +1,1 @@
-(function(d){d['et']=Object.assign(d['et']||{},{a:"Kaldkiri",b:"Rasvane",c:"Alaindeks",d:"Allajoonitud",e:"Ülaindeks",f:"Samm tagasi",g:"Samm edasi",h:"Tekstiredaktor",i:"Tekstiredaktor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['et']=Object.assign(d['et']||{},{a:"Kaldkiri",b:"Rasvane",c:"Allajoonitud",d:"Ülaindeks",e:"Alaindeks",f:"Samm tagasi",g:"Samm edasi",h:"Tekstiredaktor",i:"Tekstiredaktor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
