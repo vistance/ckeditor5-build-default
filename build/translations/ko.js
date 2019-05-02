@@ -1,1 +1,1 @@
-(function(d){d['ko']=Object.assign(d['ko']||{},{a:"기울임꼴",b:"굵게",c:"Subscript",d:"밑줄",e:"Superscript",f:"실행 취소",g:"다시 실행",h:"Rich Text Editor",i:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ko']=Object.assign(d['ko']||{},{a:"굵게",b:"기울임꼴",c:"밑줄",d:"Subscript",e:"Superscript",f:"실행 취소",g:"다시 실행",h:"Rich Text Editor, %0",i:"Rich Text Editor"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

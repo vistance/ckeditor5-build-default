@@ -1,1 +1,1 @@
-(function(d){d['ar']=Object.assign(d['ar']||{},{a:"مائل",b:"عريض",c:"Subscript",d:"تحته خط",e:"Superscript",f:"تراجع",g:"إعادة",h:"معالج نصوص",i:"معالج نصوص، 0%"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ar']=Object.assign(d['ar']||{},{a:"عريض",b:"مائل",c:"تحته خط",d:"Subscript",e:"Superscript",f:"تراجع",g:"إعادة",h:"معالج نصوص، 0%",i:"معالج نصوص"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

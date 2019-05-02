@@ -1,1 +1,1 @@
-(function(d){d['de-ch']=Object.assign(d['de-ch']||{},{a:"Italic",b:"Bold",c:"Subscript",d:"Underline",e:"Superscript",f:"Rückgängig",g:"Wiederherstellen",h:"Rich-Text-Edito",i:"Rich-Text-Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['de-ch']=Object.assign(d['de-ch']||{},{a:"Bold",b:"Italic",c:"Underline",d:"Subscript",e:"Superscript",f:"Rückgängig",g:"Wiederherstellen",h:"Rich-Text-Editor, %0",i:"Rich-Text-Edito"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

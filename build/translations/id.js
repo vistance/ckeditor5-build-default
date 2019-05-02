@@ -1,1 +1,1 @@
-(function(d){d['id']=Object.assign(d['id']||{},{a:"Miring",b:"Tebal",c:"Subskrip",d:"Garis bawah",e:"Superskrip",f:"Batal",g:"Lakukan lagi",h:"Editor Teks Kaya",i:"Editor Teks Kaya, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['id']=Object.assign(d['id']||{},{a:"Tebal",b:"Miring",c:"Garis bawah",d:"Subskrip",e:"Superskrip",f:"Batal",g:"Lakukan lagi",h:"Editor Teks Kaya, %0",i:"Editor Teks Kaya"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

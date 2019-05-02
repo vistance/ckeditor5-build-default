@@ -1,1 +1,1 @@
-(function(d){d['sq']=Object.assign(d['sq']||{},{a:"Pjerrtë",b:"Trash",c:"Subscript",d:"Nënvizuar",e:"Superscript",f:"Rikthe",g:"Ribëj",h:"Redaktues i Tekstit të Pasur",i:"Redaktues i Tekstit të Pasur, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sq']=Object.assign(d['sq']||{},{a:"Trash",b:"Pjerrtë",c:"Nënvizuar",d:"Subscript",e:"Superscript",f:"Rikthe",g:"Ribëj",h:"Redaktues i Tekstit të Pasur, %0",i:"Redaktues i Tekstit të Pasur"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
